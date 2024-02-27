@@ -1,15 +1,17 @@
-# CampinhoDigital_Aula01
+# CampinhoDigital_Aula01 👋
 
-## Título do Projeto: Campinho Digital Git
+&nbsp;&nbsp;
 
-## Descrição do Projeto: Aula de Git - Comandos Básicos
+- ⚡ Título do Projeto: Campinho Digital Git
 
-## Como Instalar: Não se aplica5
+- ⚡ Descrição do Projeto: Aula de Git - Comandos Básicos
 
-## Como Usar: Seja criativo
+- ⚡Como Instalar: Não se aplica5
 
-## Contribuição: Gilson Amorim
+- ⚡Como Usar: Seja criativo
 
-## Licença: Open Source
+- ⚡Contribuição: Gilson Amorim
 
-## Informações relevantes ao projeto que estão desenvolvendo: Aula com modificações
+- ⚡Licença: Open Source
+
+- ⚡Informações relevantes ao projeto que estão desenvolvendo: Aula com modificações
